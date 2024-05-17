@@ -1,0 +1,2 @@
+print('mobin')
+print('hajilidavaji')
