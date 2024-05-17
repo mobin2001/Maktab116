@@ -1,2 +1,2 @@
 print('mobin')
-print('hajilidavaji')
+print('davaji')
